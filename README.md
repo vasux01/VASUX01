@@ -1,115 +1,173 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:240046,60:7B2CBF,100:00F5FF&height=230&section=header&text=VEDANT%20SAINI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20CREATE%20%7C%20REPEAT&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,30:312E81,65:7C3AED,100:00E5FF&height=250&section=header&text=VEDANT%20SAINI&fontSize=52&fontColor=E0E7FF&animation=fadeIn&fontAlignY=35&desc=EXPLORING%20THE%20UNIVERSE%20OF%20CODE&descSize=16&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Learning+Python+%F0%9F%90%8D;Exploring+Open+Source+%F0%9F%9A%80;Building+cool+things+with+code;Future+AI%2FML+Explorer+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%8C%8C;Learning+Python+%F0%9F%90%8D;Exploring+Open+Source+%F0%9F%9A%80;One+commit+closer+to+the+stars+%E2%9C%A8;Learning.+Building.+Repeating." alt="Animated typing intro" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00F5FF?style=for-the-badge&labelColor=09090B" />
-<img src="https://img.shields.io/badge/FOCUS-PYTHON-7B2CBF?style=for-the-badge&labelColor=09090B" />
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20BUILDING-00F5FF?style=for-the-badge&labelColor=09090B" />
+<img src="https://img.shields.io/badge/ORBIT-LEARNING-00E5FF?style=for-the-badge&labelColor=080B20" />
+<img src="https://img.shields.io/badge/FOCUS-PYTHON-7C3AED?style=for-the-badge&labelColor=080B20" />
+<img src="https://img.shields.io/badge/MISSION-OPEN%20SOURCE-E0E7FF?style=for-the-badge&labelColor=080B20" />
 
 </div>
 
 ---
 
-## `whoami` 👨‍💻
+## 🌌 TRANSMISSION FROM EARTH
 
-```python
-class Vedant:
-    def __init__(self):
-        self.name = "Vedant Saini"
-        self.learning = ["Python", "Git", "Open Source"]
-        self.interests = ["AI/ML", "Software Development"]
-        self.goal = "Build cool things and keep learning"
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
-    def say_hi(self):
-        print("Hello, World! Let's build something awesome.")
-
-me = Vedant()
-me.say_hi()
+```text
+> booting developer profile...
+> identity: Vedant Saini
+> current mission: learn and build
+> primary language: Python
+> exploring: Open Source and AI/ML
+> status: Exploring the galaxy of code
+> next objective: Build something awesome
 ```
 
-## `tech_stack` ⚡
+I'm a beginner developer learning Python and exploring open-source development. I enjoy discovering how things work, solving problems, and turning ideas into projects.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-</p>
+- 🐍 Learning Python
+- 🌍 Exploring open-source contributions
+- 🤖 Interested in AI/ML
+- 🚀 Improving through projects and practice
+- ✨ Always curious, always learning
 
-<p align="center">
-  <i>Learning one concept at a time. Building one project at a time.</i>
-</p>
+<br clear="right"/>
 
 ---
 
-## `github_stats` 📊
+## 🪐 MY DEVELOPER TOOLKIT
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=00F5FF&icon_color=7B2CBF&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=00F5FF&text_color=FFFFFF" />
+<br/><br/>
 
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vasux01&theme=tokyonight&hide_border=true&background=09090B&ring=7B2CBF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Exploring-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-My%20Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-## `contribution_activity` 📈
+## 🖥️ TERMINAL // DEVELOPER LOG
+
+```bash
+$ whoami
+Vedant Saini
+
+$ cat mission.txt
+Learn Python
+Explore open source
+Build useful projects
+Understand AI/ML
+
+$ python --version
+# Displays your installed Python version when run locally
+
+$ echo "To infinity and beyond!"
+To infinity and beyond!
+```
+
+---
+
+## 📡 GITHUB TELEMETRY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasux01&bg_color=09090B&color=00F5FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00E5FF&icon_color=7C3AED&text_color=E0E7FF" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00E5FF&text_color=E0E7FF" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vasux01&theme=tokyonight&hide_border=true&background=080B20&ring=7C3AED&fire=00E5FF&currStreakLabel=00E5FF" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## `contribution_snake` 🐍
+## 🌠 SIGNALS FROM MY CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasux01&bg_color=080B20&color=E0E7FF&line=7C3AED&point=00E5FF&area=true&hide_border=true&custom_title=My%20Journey%20Through%20Code" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## `featured_projects` 🚀
+## 🏆 GALACTIC ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vasux01&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐍 SNAKE IN THE STARS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vasux01/vasux01/snake-output/github-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+## 👾 PAC-MAN: CONTRIBUTION GALAXY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vasux01/vasux01/output/pacman.svg" width="100%" alt="Animated Pac-Man contribution graph" />
+
+</div>
+
+---
+
+## 🚀 EXPLORE MY UNIVERSE
 
 <div align="center">
 
 <a href="https://github.com/vasux01?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/vasux01?tab=stars">
+<img src="https://img.shields.io/badge/DISCOVER-MY%20STARS-00E5FF?style=for-the-badge&logo=githubsponsors&logoColor=080B20" />
 </a>
 
 </div>
 
 ---
 
-## `connect_with_me` 🌐
+## 📶 CONNECTION STATUS
 
 <div align="center">
 
 <a href="https://github.com/vasux01">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=7C3AED&label=SPACE%20VISITORS" alt="Profile visitor counter" />
 
 <br/><br/>
 
-### `while (alive) { learn(); build(); repeat(); }`
+### `while (curious) { learn(); build(); explore(); }`
 
-<i>Turning curiosity into code. 🚀</i>
+*Somewhere in the universe, there's another bug to fix.* 🌌
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CBF,100:050505&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:7C3AED,75:312E81,100:080B20&height=150&section=footer" width="100%" />
+
