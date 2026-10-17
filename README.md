@@ -1,4 +1,4 @@
-```markdown
+
 <!--
   VASUX01 // CYBERPUNK RPG
   Animated profile: neon visuals, stats, snake, and tech icons.
