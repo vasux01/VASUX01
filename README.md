@@ -54,8 +54,6 @@
 
 ---
 
-## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
-
 
 ## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
 
