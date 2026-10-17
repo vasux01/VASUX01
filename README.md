@@ -1,4 +1,4 @@
-
+```markdown
 <!--
   VASUX01 // CYBERPUNK RPG
   Animated profile: neon visuals, stats, snake, and tech icons.
@@ -6,53 +6,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,40:24105A,75:00F5FF,100:FF00C8&text=VASUX01&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=ENTER%20THE%20DEVELOPER%20MATRIX&descSize=17&descAlignY=60&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,40:24105A,75:00F5FF,100:FF00C8&text=VASUX01&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=ENTER%20THE%20DEVELOPER%20MATRIX&descSize=17&descAlignY=60&animation=twinkling" alt="VASUX01 cyberpunk banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+MODE...;PYTHON+APPRENTICE+%F0%9F%90%8D;EXPLORING+ARTIFICIAL+INTELLIGENCE;OPEN+SOURCE+QUEST+UNLOCKED;LEARN.+BUILD.+BREAK.+REPEAT." alt="Animated developer intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+MODE...;PYTHON+APPRENTICE+%F0%9F%90%8D;EXPLORING+ARTIFICIAL+INTELLIGENCE;OPEN+SOURCE+QUEST+UNLOCKED;LEARN.+BUILD.+BREAK.+REPEAT." alt="Animated developer intro"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=8A2BE2&label=PROFILE+VISITORS" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/CLASS-PYTHON_APPRENTICE-FF00C8?style=for-the-badge&labelColor=080808" />
-
-</div>
-
-
----
-
-<div align="center">
-
-## 🚀 SPACE-FLIGHT // ENTER THE GALAXY
-
-<img
-  src="YOUR_DIRECT_ANIMATED_GIF_URL"
-  width="320"
-  alt="Animated pixel-art spaceship flying through space"
-/>
-
-### 👾 COMPANION SQUAD
-
-<img
-  src="YOUR_FIRST_COMPANION_GIF_URL"
-  width="120"
-  alt="Pixel-art companion one"
-/>
-<img
-  src="YOUR_SECOND_COMPANION_GIF_URL"
-  width="120"
-  alt="Pixel-art companion two"
-/>
-
-`🚀 EXPLORING THE GALAXY` · `💻 BUILDING PROJECTS`
-
-</div>
-
----
-
-## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
-
-
+<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=8A2BE2&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080808" alt="Status online"/>
+<img src="https://img.shields.io/badge/CLASS-PYTHON_APPRENTICE-FF00C8?style=for-the-badge&labelColor=080808" alt="Python apprentice"/>
 
 </div>
 
@@ -60,33 +22,19 @@
 
 <div align="center">
 
-## 🚀 SPACE EXPLORER // VASUX01
+## 🚀 VASUX01 // SPACE EXPLORER
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
-  width="320"
-  alt="Animated space-themed artwork"
-/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Animated%20spaceships.gif" width="339" alt="Animated spaceships flying through space"/>
 
 ### 👾 COMPANION SQUAD
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-  width="130"
-  alt="Animated companion one"
-/>
-<img
-  src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
-  width="130"
-  alt="Animated companion two"
-/>
+`🤖 PIXEL BOT` &nbsp; `👾 CODE GHOST` &nbsp; `🪐 SPACE BUDDY`
 
-`🚀 EXPLORING THE GALAXY` · `🐍 LEVELING UP` · `💻 BUILDING PROJECTS`
+`MISSION: EXPLORE` • `BUILD` • `LEVEL UP`
 
 </div>
 
 ---
-
 
 ## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
 
@@ -101,8 +49,6 @@
 ║  NEXT LEVEL : BUILD SOMETHING AWESOME                ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 ## 🧬 `WHOAMI`
 
@@ -137,14 +83,14 @@ print(player.next_quest())
 
 ### CURRENT LOADOUT
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code icons" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code icons"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Practicing-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Open_Source-Exploring-39FF14?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Curious-BC13FE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning"/>
+<img src="https://img.shields.io/badge/Git-Practicing-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git practicing"/>
+<img src="https://img.shields.io/badge/Open_Source-Exploring-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Open source exploring"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Curious-BC13FE?style=for-the-badge" alt="AI and ML exploring"/>
 
 </div>
 
@@ -177,8 +123,8 @@ print(player.next_quest())
 ## 🐍 `THE CONTRIBUTION SNAKE`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake.gif" width="100%" alt="Animated contribution snake GIF" />
-</div>
+
+<img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake.gif" width="100%" alt="Animated GitHub contribution snake"/>
 
 **THE SNAKE IS HUNGRY. KEEP CODING.**
 
@@ -191,26 +137,20 @@ print(player.next_quest())
 <div align="center">
 
 <a href="https://github.com/vasux01">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8&ring_color=BC13FE&include_all_commits=true" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8&ring_color=BC13FE&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/vasux01">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vasux01&hide_border=true&background=080808&ring=FF00C8&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=vasux01&hide_border=true&background=080808&ring=FF00C8&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%"/>
 
 </div>
 
 <sub>Statistics are generated by third-party services. They may take time to load, and language breakdowns can include generated or non-project files.</sub>
-
----
-
----
-
-<div align="center">
 
 ---
 
@@ -219,7 +159,7 @@ print(player.next_quest())
 <div align="center">
 
 <a href="https://github.com/vasux01/DevForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasux01&repo=DevForge&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8" alt="DevForge repository card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vasux01&repo=DevForge&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8" alt="DevForge repository card"/>
 </a>
 
 </div>
@@ -273,15 +213,15 @@ git push
 ## 🌌 `THE FINAL BOSS: CONSISTENCY`
 
 ```text
-          .        *       .       +
-      *       .       _______       .
-             /\      / CODE  \   *
-        .    /  \    /________\       .
-            /____\      ||       *
-        *     ||        ||    .
-              ||   ____||____
-              ||  | NEXT LVL |
-              ||  |__________|
+         .        *       .       +
+     *       .       _______       .
+            /      / CODE  \   *
+       .    /  \    /________\       .
+           /______      ||       *
+       *     ||        ||    .
+             ||   ____||____
+             ||  | NEXT LVL |
+             ||  |__________|
 ```
 
 The plan is simple:
@@ -296,8 +236,9 @@ The plan is simple:
 
 ### `NO CHEAT CODES. JUST CONSISTENT PROGRESS.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00C8,40:24105A,75:00F5FF,100:050505&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00C8,40:24105A,75:00F5FF,100:050505&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
 **`vasux01 // END TRANSMISSION`**
 
 </div>
+```
