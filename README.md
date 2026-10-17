@@ -1,193 +1,231 @@
 
+<!--
+  VASUX01 // CYBERPUNK RPG
+  Animated profile: neon visuals, stats, snake, and tech icons.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,30:312E81,65:7C3AED,100:00E5FF&height=230&section=header&text=DEVELOPER%20CITY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20the%20world%20of%20vasux01&descAlignY=58&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,40:24105A,75:00F5FF,100:FF00C8&text=VASUX01&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=ENTER%20THE%20DEVELOPER%20MATRIX&descSize=17&descAlignY=60&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=City+Status%3A+Under+Construction;Python+Lab%3A+Learning+in+Progress;Open+Source+HQ%3A+Exploring;Project+Garage%3A+Ideas+Loading;Every+Commit+Builds+the+City" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+MODE...;PYTHON+APPRENTICE+%F0%9F%90%8D;EXPLORING+ARTIFICIAL+INTELLIGENCE;OPEN+SOURCE+QUEST+UNLOCKED;LEARN.+BUILD.+BREAK.+REPEAT." alt="Animated developer intro" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=8A2BE2&label=PROFILE+VISITORS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/CLASS-PYTHON_APPRENTICE-FF00C8?style=for-the-badge&labelColor=080808" />
 
 </div>
 
 ---
 
-# 🏙️ Welcome to Developer City
-
-> Every developer starts with an empty plot. Every project builds something new.
-
-Hey! I'm **Vedant Saini (`vasux01`)**, a beginner developer learning Python and exploring open source.
-
-This is my digital city — a place where every building represents something I'm learning, building, or working towards.
-
-## 🏡 MY DEVELOPER WORLD
-
 <div align="center">
 
-<img src="developer-city.png" width="100%" alt="Miniature Developer World" />
+## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
 
-*Welcome to my little world of code. Every building represents something I'm learning or building.*
+```text
+╔══════════════════════════════════════════════════════╗
+║  USER       : VASUX01                                ║
+║  CLASS      : ASPIRING DEVELOPER                     ║
+║  MAIN WEAPON: PYTHON                                 ║
+║  SIDE QUEST : OPEN SOURCE                            ║
+║  INTERESTS  : AI / MACHINE LEARNING                  ║
+║  CURRENT XP : LEARNING MODE                          ║
+║  NEXT LEVEL : BUILD SOMETHING AWESOME                ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
-### 🗺️ Explore the World
-
-| Destination | What's inside |
-|---|---|
-| 🐍 [Python Lab](#-python-lab) | Learning Python and practising coding |
-| 🌍 [Open-Source HQ](#-open-source-hq) | Exploring repositories and contributions |
-| 🔬 [AI Research Center](#-ai-research-center) | AI/ML interests and experiments |
-| 🛠️ [Project Garage](#-project-garage) | Projects I'm building |
-| 🎮 [Challenge Arcade](#-challenge-arcade) | Coding practice |
-| 🏛️ [City Hall](#-city-hall) | About me and my goals |
-</div>
-
----
-
-## 🐍 PYTHON LAB
-
-`BUILDING STATUS: LEARNING`
-
-My programming journey starts here.
+## 🧬 `WHOAMI`
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Vedant"
-        self.language = "Python"
-        self.status = "Learning"
-        self.mission = "Build something useful"
+        self.username = "vasux01"
+        self.current_focus = ["Python", "Open Source"]
+        self.exploring = ["AI", "Machine Learning"]
+        self.mindset = "Learn by building"
 
-    def next_step(self):
-        return "Learn, practise, build, repeat."
+    def next_quest(self):
+        return "Build, debug, learn, repeat!"
 
-me = Developer()
-print(me.next_step())
+player = Developer()
+print(player.next_quest())
 ```
 
-Current objectives:
+- 🐍 Learning Python and strengthening my programming fundamentals.
+- 🤖 Exploring the world of AI and Machine Learning.
+- 🌐 Learning how real-world open-source projects work.
+- 🛠️ Building projects, solving bugs, and improving through practice.
+- 🚀 Working toward becoming a better developer, one commit at a time.
 
-- [ ] Strengthen Python fundamentals
-- [ ] Practise problem-solving
-- [ ] Build a useful Python project
-- [ ] Learn to write cleaner code
-
----
-
-## 🌍 OPEN-SOURCE HQ
-
-`BUILDING STATUS: EXPLORING`
-
-The headquarters for learning how real-world software is built.
-
-- 🔎 Explore repositories and understand their code
-- 🐛 Learn how to report reproducible bugs
-- 🔀 Understand branches, commits and pull requests
-- 🤝 Work towards meaningful open-source contributions
-
-**Mission:** Become a contributor, one step at a time.
+> `The mission isn't to know everything. It's to keep getting better.`
 
 ---
 
-## 🔬 AI RESEARCH CENTER
-
-`BUILDING STATUS: FUTURE EXPANSION`
-
-A place for future experiments in artificial intelligence and machine learning.
-
-Planned research areas:
-
-- 🤖 AI and machine learning fundamentals
-- 📊 Data exploration
-- 🧪 Small experiments and prototypes
-- 🚀 Building projects as my knowledge grows
-
-*Currently exploring — research projects will be added as I build them.*
-
----
-
-## 🛠️ PROJECT GARAGE
-
-`BUILDING STATUS: READY FOR NEW PROJECTS`
-
-This is where ideas become real software.
+## 🕹️ `TECH INVENTORY`
 
 <div align="center">
 
-<a href="https://github.com/vasux01?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN-GARAGE-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### CURRENT LOADOUT
 
-</div>
-
-### 🏗️ Projects under construction
-
-| Project slot | Mission |
-|---|---|
-| 🚧 Project Alpha | My next Python project |
-| 🚧 Project Beta | A tool that solves a real problem |
-| 🚧 Project Gamma | An open-source contribution |
-
-*These are planning slots, not completed projects. I'll replace them with real repository links as I build.*
-
----
-
-## 🎮 CHALLENGE ARCADE
-
-`BUILDING STATUS: LEVELING UP`
-
-My practice zone for improving programming skills.
-
-- 🧩 Solve coding problems
-- 🐞 Debug broken programs
-- 🧠 Learn new concepts
-- ⚡ Turn small exercises into useful projects
-
-**Current level:** Beginner
-
-**Next level:** Build independently and contribute confidently.
-
----
-
-## 📊 CITY STATISTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00E5FF&icon_color=7C3AED&text_color=E0E7FF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00E5FF&text_color=E0E7FF" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code icons" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasux01&bg_color=080B20&color=E0E7FF&line=7C3AED&point=00E5FF&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Practicing-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-Exploring-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Curious-BC13FE?style=for-the-badge" />
+
+</div>
+
+*These icons show tools I'm learning or exploring, not expert-level proficiency.*
+
+---
+
+## 👾 `QUEST LOG`
+
+| Quest | Mission | Progress |
+|:---|:---|:---|
+| `001` | Strengthen Python fundamentals | 🔄 In progress |
+| `002` | Build beginner-friendly projects | 🔄 In progress |
+| `003` | Master Git and GitHub workflows | 🔄 Learning |
+| `004` | Explore real open-source repositories | 🔄 Exploring |
+| `005` | Learn AI/ML foundations | 🔒 Upcoming |
+| `006` | Ship a polished personal project | 🔒 Upcoming |
+
+### 🏆 Achievement Board
+
+- [x] `FIRST BOOT` — Started the coding journey
+- [x] `PLAYER PROFILE` — Created a GitHub profile
+- [ ] `BUG SLAYER` — Debug a tricky issue
+- [ ] `PULL REQUEST` — Get a meaningful contribution merged
+- [ ] `PROJECT SHIPPED` — Publish a finished project
+- [ ] `AI EXPLORER` — Build a first AI/ML experiment
+
+---
+
+## 🐍 `THE CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake-dark.svg" alt="Animated snake moving across my GitHub contribution graph" width="100%" />
+
+**THE SNAKE IS HUNGRY. KEEP CODING.**
 
 </div>
 
 ---
 
-## 🏛️ CITY HALL
-
-**Citizen:** Vedant Saini
-
-**GitHub ID:** `vasux01`
-
-**Currently learning:** Python and open source
-
-**Interested in:** Software development and AI/ML
-
-**City motto:** Build small. Learn constantly. Improve everything.
+## 📊 `PLAYER STATISTICS`
 
 <div align="center">
 
 <a href="https://github.com/vasux01">
-<img src="https://img.shields.io/badge/VISIT-GITHUB-181717?style=for-the-badge&logo=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasux01&show_icons=true&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8&ring_color=BC13FE&include_all_commits=true" alt="GitHub statistics" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=vasux01&style=for-the-badge&color=7C3AED&label=CITY%20VISITORS" />
+<a href="https://github.com/vasux01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasux01&layout=compact&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages" />
+</a>
 
-<br/><br/>
+<br/>
 
-`CITY STATUS: GROWING 🚀`
-
-*The city is never finished. There's always another thing to build.*
+<img src="https://streak-stats.demolab.com?user=vasux01&hide_border=true&background=080808&ring=FF00C8&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:080B20&height=140&section=footer" width="100%" />
+<sub>Statistics are generated by third-party services. They may take time to load, and language breakdowns can include generated or non-project files.</sub>
+
+---
+
+## 🏰 `PROJECT VAULT`
+
+<div align="center">
+
+<a href="https://github.com/vasux01/DevForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasux01&repo=DevForge&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00C8" alt="DevForge repository card" />
+</a>
+
+</div>
+
+### Active objective
+
+**DevForge — Open Source Exploration**
+
+- Explore an existing codebase.
+- Learn issue-to-pull-request workflows.
+- Understand changes, testing, and collaboration.
+- Improve through practical experience.
+
+[⚡ Explore my repositories](https://github.com/vasux01?tab=repositories) · [🧩 Explore my activity](https://github.com/vasux01)
+
+---
+
+## 💻 `HACKER TERMINAL`
+
+```bash
+# Initialize player environment
+whoami
+python3 --version
+git --version
+
+# Launch a Python quest
+python3 main.py
+
+# Check the current repository
+git status
+
+# Save a checkpoint
+git add .
+git commit -m "feat: complete another quest"
+git push
+```
+
+```text
+> booting developer mode...
+> loading Python fundamentals...
+> scanning for bugs...
+> BUG DETECTED
+> DEBUGGING...
+> BUG FIXED
+> EXPERIENCE GAINED +100 XP
+> NEXT QUEST LOADED _
+```
+
+---
+
+## 🌌 `THE FINAL BOSS: CONSISTENCY`
+
+```text
+          .        *       .       +
+      *       .       _______       .
+             /\      / CODE  \   *
+        .    /  \    /________\       .
+            /____\      ||       *
+        *     ||        ||    .
+              ||   ____||____
+              ||  | NEXT LVL |
+              ||  |__________|
+```
+
+The plan is simple:
+
+- Learn something new.
+- Build something real.
+- Break it.
+- Fix it.
+- Repeat.
+
+<div align="center">
+
+### `NO CHEAT CODES. JUST CONSISTENT PROGRESS.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00C8,40:24105A,75:00F5FF,100:050505&animation=twinkling" width="100%" />
+
+**`vasux01 // END TRANSMISSION`**
+
+</div>
