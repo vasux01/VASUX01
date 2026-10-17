@@ -146,18 +146,6 @@ print(player.next_quest())
 
 <div align="center">
 
-# ⚡ LIVE ACTIVITY MATRIX ⚡
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vasux01&bg_color=080808&color=00F5FF&line=FF00C8&point=FFFFFF&area=true&hide_border=true&custom_title=VASUX01%20%7C%20RECENT%20ACTIVITY"
-  width="100%"
-  alt="Recent GitHub contribution activity graph"
-/>
-
-[**OPEN MY GITHUB PROFILE →**](https://github.com/vasux01)
-
-</div>
-
 ---
 
 ## 🏰 `PROJECT VAULT`
