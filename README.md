@@ -18,7 +18,40 @@
 
 </div>
 
+
 ---
+
+<div align="center">
+
+## 🚀 SPACE-FLIGHT // ENTER THE GALAXY
+
+<img
+  src="YOUR_DIRECT_ANIMATED_GIF_URL"
+  width="320"
+  alt="Animated pixel-art spaceship flying through space"
+/>
+
+### 👾 COMPANION SQUAD
+
+<img
+  src="YOUR_FIRST_COMPANION_GIF_URL"
+  width="120"
+  alt="Pixel-art companion one"
+/>
+<img
+  src="YOUR_SECOND_COMPANION_GIF_URL"
+  width="120"
+  alt="Pixel-art companion two"
+/>
+
+`🚀 EXPLORING THE GALAXY` · `💻 BUILDING PROJECTS`
+
+</div>
+
+---
+
+## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
+
 
 
 </div>
