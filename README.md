@@ -21,23 +21,6 @@
 ---
 
 
-<div align="center">
-
-## 👾 THE COMPANION GUILD
-
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="150" alt="Space companion" />
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="150" alt="Contribution snake companion" />
-
-<br/>
-
-`🚀 SPACE EXPLORER` &nbsp; `🐍 CONTRIBUTION SNAKE`
-
-**Two companions. Infinite quests. Zero bugs guaranteed?**  
-`ERROR: BUG-FREE PROMISE NOT FOUND`
-
-</div>
-
-
 
 ## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
 
