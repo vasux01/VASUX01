@@ -22,6 +22,15 @@
 
 <div align="center">
 
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+    width="300"
+    alt="Animated space-themed developer graphic"
+  />
+</div>
+
+
 ## ░▒▓█ PLAYER ONE HAS ENTERED THE MATRIX █▓▒░
 
 ```text
