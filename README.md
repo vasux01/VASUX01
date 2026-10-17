@@ -111,8 +111,8 @@ print(player.next_quest())
 ## 🐍 `THE CONTRIBUTION SNAKE`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake-dark.svg" alt="Animated snake moving across my GitHub contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/vasux01/vasux01/output/github-snake.gif" width="100%" alt="Animated contribution snake GIF" />
+</div>
 
 **THE SNAKE IS HUNGRY. KEEP CODING.**
 
