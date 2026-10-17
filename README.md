@@ -20,7 +20,9 @@ Mindset    : Learn → Build → Improve → Repeat
 ## `tech_stack` ⚡
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js&theme=dark" />
+  
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+
 </p>
 
 ## `github_stats` 📊
