@@ -17,19 +17,26 @@ Hey! I'm **Vedant Saini (`vasux01`)**, a beginner developer learning Python and 
 
 This is my digital city — a place where every building represents something I'm learning, building, or working towards.
 
-## 🗺️ CITY MAP
+## 🏡 MY DEVELOPER WORLD
 
 <div align="center">
 
-| 🏢 BUILDING | 📡 DEPARTMENT | 🚪 ENTER |
-|:---:|:---|:---:|
-| 🐍 | Python Lab | [Explore ↓](#-python-lab) |
-| 🌍 | Open-Source HQ | [Explore ↓](#-open-source-hq) |
-| 🔬 | AI Research Center | [Explore ↓](#-ai-research-center) |
-| 🛠️ | Project Garage | [Explore ↓](#-project-garage) |
-| 🎮 | Challenge Arcade | [Explore ↓](#-challenge-arcade) |
-| 🏛️ | City Hall | [Explore ↓](#-city-hall) |
+<img src="developer-city.png" width="100%" alt="Miniature Developer World" />
 
+*Welcome to my little world of code. Every building represents something I'm learning or building.*
+
+</div>
+
+### 🗺️ Explore the World
+
+| Destination | What's inside |
+|---|---|
+| 🐍 [Python Lab](#-python-lab) | Learning Python and practising coding |
+| 🌍 [Open-Source HQ](#-open-source-hq) | Exploring repositories and contributions |
+| 🔬 [AI Research Center](#-ai-research-center) | AI/ML interests and experiments |
+| 🛠️ [Project Garage](#-project-garage) | Projects I'm building |
+| 🎮 [Challenge Arcade](#-challenge-arcade) | Coding practice |
+| 🏛️ [City Hall](#-city-hall) | About me and my goals |
 </div>
 
 ---
